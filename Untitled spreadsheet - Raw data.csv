@@ -1,0 +1,5 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration
+s1,Movie,Inception,Christopher Nolan,United States,September 1 2021,2010,PG-13,148 min
+s2,TV Show,Breaking Bad,unknown,United States,January 20 2020,2008,TV-MA,5 Seasons
+s3,Movie,RRR,S S Rajamouli,India,March 25 2022,2022,not rated,182 min
+s4,Movie,Inception,Christopher Nolan,United States,September 1 2021,2010,PG-13,148 min
